@@ -5,8 +5,6 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SkeletonNetCore", "SkeletonNetCore.csproj", "{1DC15AA9-AF00-482E-9AAA-25CE68AACC75}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SkeletonNetCore.Tests", "..\SkeletonNetCore.Tests\SkeletonNetCore.Tests.csproj", "{08FB3944-5571-4C92-83C2-15F10FC162B3}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

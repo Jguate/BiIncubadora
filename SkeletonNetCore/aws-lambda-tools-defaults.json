@@ -11,5 +11,5 @@
   "framework": "netcoreapp3.1",
   "s3-prefix": "SkeletonNetCore/",
   "template": "serverless.template",
-  "template-parameters": ""
+  "template-parameters": "ShouldCreateBucket=false;BucketName="
 }
